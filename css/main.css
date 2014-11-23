@@ -51,7 +51,16 @@ body {
   margin-top: 40px;
 }
 
+.feature h4 {
+  margin-bottom: 1em;
+}
+
 .jumbotron {
   padding-top: 90px;
 }
 
+p, ul, li {
+  font-family: arial, sans-serif;
+  font-size: 1em;
+  line-height: 1.5em;
+}
