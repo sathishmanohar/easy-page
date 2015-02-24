@@ -64,3 +64,14 @@ p, ul, li {
   font-size: 1em;
   line-height: 1.5em;
 }
+
+/* Designs Page */
+
+.design-sec {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.design-sec img {
+  margin-bottom: 10px;
+}
